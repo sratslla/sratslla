@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://steamuserimages-a.akamaihd.net/ugc/910156967348138382/E4A8A3FAA9388A67BD3DC2CCD77216B21280A7A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height="75px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://steamuserimages-a.akamaihd.net/ugc/910156967348138382/E4A8A3FAA9388A67BD3DC2CCD77216B21280A7A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height="35px" width = 75%/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ALLSTARS!
 <h3 align="center">I'm a passionate Full Stack Developer and love tinkering with Artificial Intelligence.</h3>
