@@ -1,5 +1,5 @@
 
-    <a href="#"><img class = "opening-image" width="30%" height="auto" src="https://steamuserimages-a.akamaihd.net/ugc/910156967348138382/E4A8A3FAA9388A67BD3DC2CCD77216B21280A7A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<a href="#"><img class = "opening-image" width="30%" height="auto" src="https://steamuserimages-a.akamaihd.net/ugc/910156967348138382/E4A8A3FAA9388A67BD3DC2CCD77216B21280A7A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
     <h1 class = "main-text">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ALLSTARS!
     <h3 class = "main-text">I'm a passionate Front-end Developer and love tinkering with Machine Learning.</h3>
     
