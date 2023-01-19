@@ -60,8 +60,6 @@
 
 <br/>
 <br/>
-
-<a href="https://github.com/sratslla/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sratslla&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
 <br/>
 <br/>
