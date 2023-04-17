@@ -47,7 +47,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sratslla&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
- 
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sratslla&hide=contribs,prs)
+</div>
 <div align="center">
 
 
