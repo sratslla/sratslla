@@ -1,18 +1,18 @@
 <a href="#"><p align = "center"><img align = "middle" width="50%" height="auto" src="https://media1.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.gif"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ALLSTARS!
-<h3 align="center">I'm a passionate Front-end Developer and love tinkering with Machine Learning.</h3>
+<h3 align="center">I'm a passionate Front-end Developer.</h3>
 
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Golang**
  
-- 🔥 I'm also enhancing myself in the field of **Machine Learning**
+- 🔥 I'm also enhancing myself in the field of **DevOps**
 
 - 👯 I’m looking to collaborate on **Open Source Projects** 
 
-- 📫 Reach out to me at my **[Email](sratslla@gmail.com)**
+- 📫 Reach out to me at my **<a href="mailto:sratslla@gmail.com">Email</a>**
  
 ## 🚀 Languages and Tools:
 
@@ -71,4 +71,4 @@
 </p>
  
 ## ❤ Views and Followers
-<a href="https://github.com/sratslla?tab=followers"><img src="https://img.shields.io/github/followers/sratslla?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/sratslla)
+<a href="https://github.com/sratslla?tab=followers"><img src="https://img.shields.io/github/followers/sratslla?label=Followers&style=social" alt="GitHub Badge"></a>
